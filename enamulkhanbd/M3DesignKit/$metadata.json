@@ -1,5 +1,16 @@
 {
   "tokenSetOrder": [
-    "global"
+    "M3/Light",
+    "M3/Light High Contrast",
+    "M3/Light Medium Contrast",
+    "M3/Dark",
+    "M3/Dark High Contrast",
+    "M3/Dark Medium Contrast",
+    "M3/Monochrome Light",
+    "M3/Monochrome Dark",
+    "Typeface/Baseline",
+    "Typeface/Wireframe",
+    "Typescale/Baseline",
+    "Shape/Baseline"
   ]
 }

@@ -1,0 +1,340 @@
+{
+  "Title Large": {
+    "Font": {
+      "value": "{Brand}",
+      "type": "text"
+    },
+    "Weight": {
+      "value": "{Weight.Regular}",
+      "type": "text"
+    },
+    "Size": {
+      "value": "1.375rem",
+      "type": "dimension"
+    },
+    "Tracking": {
+      "value": "0rem",
+      "type": "dimension"
+    },
+    "Line Height": {
+      "value": "1.75rem",
+      "type": "dimension"
+    }
+  },
+  "Title Medium": {
+    "Font": {
+      "value": "{Plain}",
+      "type": "text"
+    },
+    "Weight": {
+      "value": "{Weight.Medium}",
+      "type": "text"
+    },
+    "Size": {
+      "value": "1rem",
+      "type": "dimension"
+    },
+    "Tracking": {
+      "value": "0.00937500037252903rem",
+      "type": "dimension"
+    },
+    "Line Height": {
+      "value": "1.5rem",
+      "type": "dimension"
+    }
+  },
+  "Title Small": {
+    "Font": {
+      "value": "{Plain}",
+      "type": "text"
+    },
+    "Weight": {
+      "value": "{Weight.Medium}",
+      "type": "text"
+    },
+    "Size": {
+      "value": "0.875rem",
+      "type": "dimension"
+    },
+    "Tracking": {
+      "value": "0.0062500000931322575rem",
+      "type": "dimension"
+    },
+    "Line Height": {
+      "value": "1.25rem",
+      "type": "dimension"
+    }
+  },
+  "Label Large": {
+    "Font": {
+      "value": "{Plain}",
+      "type": "text"
+    },
+    "Weight": {
+      "value": "{Weight.Medium}",
+      "type": "text"
+    },
+    "Weight Prominent": {
+      "value": "{Weight.Bold}",
+      "type": "text"
+    },
+    "Size": {
+      "value": "0.875rem",
+      "type": "dimension"
+    },
+    "Tracking": {
+      "value": "0.0062500000931322575rem",
+      "type": "dimension"
+    },
+    "Line Height": {
+      "value": "1.25rem",
+      "type": "dimension"
+    }
+  },
+  "Label Medium": {
+    "Font": {
+      "value": "{Plain}",
+      "type": "text"
+    },
+    "Weight": {
+      "value": "{Weight.Medium}",
+      "type": "text"
+    },
+    "Weight Prominent": {
+      "value": "{Weight.Bold}",
+      "type": "text"
+    },
+    "Size": {
+      "value": "0.75rem",
+      "type": "dimension"
+    },
+    "Tracking": {
+      "value": "0.03125rem",
+      "type": "dimension"
+    },
+    "Line Height": {
+      "value": "1rem",
+      "type": "dimension"
+    }
+  },
+  "Label Small": {
+    "Font": {
+      "value": "{Plain}",
+      "type": "text"
+    },
+    "Weight": {
+      "value": "{Weight.Medium}",
+      "type": "text"
+    },
+    "Size": {
+      "value": "0.6875rem",
+      "type": "dimension"
+    },
+    "Tracking": {
+      "value": "0.03125rem",
+      "type": "dimension"
+    },
+    "Line Height": {
+      "value": "1rem",
+      "type": "dimension"
+    }
+  },
+  "Headline Small": {
+    "Font": {
+      "value": "{Brand}",
+      "type": "text"
+    },
+    "Weight": {
+      "value": "{Weight.Regular}",
+      "type": "text"
+    },
+    "Size": {
+      "value": "1.5rem",
+      "type": "dimension"
+    },
+    "Tracking": {
+      "value": "0rem",
+      "type": "dimension"
+    },
+    "Line Height": {
+      "value": "2rem",
+      "type": "dimension"
+    }
+  },
+  "Headline Medium": {
+    "Font": {
+      "value": "{Brand}",
+      "type": "text"
+    },
+    "Weight": {
+      "value": "{Weight.Regular}",
+      "type": "text"
+    },
+    "Size": {
+      "value": "1.75rem",
+      "type": "dimension"
+    },
+    "Tracking": {
+      "value": "0rem",
+      "type": "dimension"
+    },
+    "Line Height": {
+      "value": "2.25rem",
+      "type": "dimension"
+    }
+  },
+  "Headline Large": {
+    "Font": {
+      "value": "{Brand}",
+      "type": "text"
+    },
+    "Weight": {
+      "value": "{Weight.Regular}",
+      "type": "text"
+    },
+    "Size": {
+      "value": "2rem",
+      "type": "dimension"
+    },
+    "Tracking": {
+      "value": "0rem",
+      "type": "dimension"
+    },
+    "Line Height": {
+      "value": "2.5rem",
+      "type": "dimension"
+    }
+  },
+  "Display Small": {
+    "Font": {
+      "value": "{Brand}",
+      "type": "text"
+    },
+    "Weight": {
+      "value": "{Weight.Regular}",
+      "type": "text"
+    },
+    "Size": {
+      "value": "2.25rem",
+      "type": "dimension"
+    },
+    "Tracking": {
+      "value": "0rem",
+      "type": "dimension"
+    },
+    "Line Height": {
+      "value": "2.75rem",
+      "type": "dimension"
+    }
+  },
+  "Display Medium": {
+    "Font": {
+      "value": "{Brand}",
+      "type": "text"
+    },
+    "Weight": {
+      "value": "{Weight.Regular}",
+      "type": "text"
+    },
+    "Size": {
+      "value": "2.8125rem",
+      "type": "dimension"
+    },
+    "Line Height": {
+      "value": "3.25rem",
+      "type": "dimension"
+    },
+    "Tracking": {
+      "value": "0rem",
+      "type": "dimension"
+    }
+  },
+  "Display Large": {
+    "Font": {
+      "value": "{Brand}",
+      "type": "text"
+    },
+    "Weight": {
+      "value": "{Weight.Regular}",
+      "type": "text"
+    },
+    "Size": {
+      "value": "3.5625rem",
+      "type": "dimension"
+    },
+    "Tracking": {
+      "value": "-0.015625rem",
+      "type": "dimension"
+    },
+    "Line Height": {
+      "value": "4rem",
+      "type": "dimension"
+    }
+  },
+  "Body Large": {
+    "Font": {
+      "value": "{Plain}",
+      "type": "text"
+    },
+    "Weight": {
+      "value": "{Weight.Regular}",
+      "type": "text"
+    },
+    "Size": {
+      "value": "1rem",
+      "type": "dimension"
+    },
+    "Tracking": {
+      "value": "0.03125rem",
+      "type": "dimension"
+    },
+    "Line Height": {
+      "value": "1.5rem",
+      "type": "dimension"
+    }
+  },
+  "Body Medium": {
+    "Font": {
+      "value": "{Plain}",
+      "type": "text"
+    },
+    "Weight": {
+      "value": "{Weight.Regular}",
+      "type": "text"
+    },
+    "Size": {
+      "value": "0.875rem",
+      "type": "dimension"
+    },
+    "Tracking": {
+      "value": "0.015625rem",
+      "type": "dimension"
+    },
+    "Line Height": {
+      "value": "1.25rem",
+      "type": "dimension"
+    }
+  },
+  "Body Small": {
+    "Font": {
+      "value": "{Plain}",
+      "type": "text"
+    },
+    "Weight": {
+      "value": "{Weight.Regular}",
+      "type": "text"
+    },
+    "Size": {
+      "value": "0.75rem",
+      "type": "dimension"
+    },
+    "Tracking": {
+      "value": "0.02500000037252903rem",
+      "type": "dimension"
+    },
+    "Line Height": {
+      "value": "1rem",
+      "type": "dimension"
+    }
+  }
+}
